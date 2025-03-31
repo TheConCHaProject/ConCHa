@@ -10,7 +10,7 @@ The full documentation can be found here: [ConCHA documentation](https://) - Com
 - Further more... __COMING SOON__!
 
 ## Developers
-The ConGHa Project has been created by [Dr. Aldo Rodriguez-Puebla] (Instituto de Astronomía, Universidad Nacional Autónoma de México) & [Dr. Carlo Cannarozzo] (Center for Astrophysics and Space Science, New York University Abu Dhabi).
+The ConGHa Project has been designed by ___Dr. Aldo Rodriguez-Puebla___ (_creator_ - Instituto de Astronomía, Universidad Nacional Autónoma de México) & ___Dr. Carlo Cannarozzo___ (_Python developer_ - Center for Astrophysics and Space Science, New York University Abu Dhabi).
 
 
 ## Help Us Improve!
