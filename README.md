@@ -16,8 +16,7 @@ The full documentation can be found here: [ConCHA documentation](https://) - Com
 
 ## Help Us Improve!
 
-If you run into any bugs or have suggestions for improvements, feel free to [![Issues](https://img.shields.io/github/issues/TheConGHaProject/ConGHa)](https://github.com/TheConGHaProject/ConGHa/issues).  
-We welcome feedback and contributions from the community!
+If you run into any bugs or have suggestions for improvements, feel free to [![Issues](https://img.shields.io/github/issues/TheConGHaProject/ConGHa)](https://github.com/TheConGHaProject/ConGHa/issues). We welcome feedback and contributions from the community!
 
 
 ### License
