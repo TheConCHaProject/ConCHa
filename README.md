@@ -20,7 +20,7 @@ If you run into any bugs or have suggestions for improvements, feel free to [![I
 
 
 ### License
-The ConCHa Project is licensed under the MIT License – see the [![License](https://img.shields.io/github/license/TheConGHaProject/ConCha.svg)](LICENSE) file for details.
+The ConCHa Project is licensed under the MIT License – see the [![License](https://img.shields.io/github/license/TheConGHaProject/ConCha.svg)](https://github.com/TheConCHaProject/ConCHa/blob/main/LICENSE) file for details.
 
 
 
