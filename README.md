@@ -16,11 +16,11 @@ The ConGHa Project has been designed by ___Dr. Aldo Rodriguez-Puebla___ (_creato
 
 ## Help Us Improve!
 
-If you run into any bugs or have suggestions for improvements, feel free to [![Issues](https://img.shields.io/github/issues/TheConGHaProject/ConCha.svg)](https://github.com/TheConGHaProject/ConCha/issues). We welcome feedback and contributions from the community!
+If you run into any bugs or have suggestions for improvements, feel free to [Issues](https://github.com/TheConGHaProject/ConCha/issues). We welcome feedback and contributions from the community!
 
 
 ### License
-The ConCHa Project is licensed under the MIT License – see the [![License]](https://github.com/TheConCHaProject/ConCHa/blob/main/LICENSE) file for details.
+The ConCHa Project is licensed under the MIT License – see the [LICENSE](https://github.com/TheConCHaProject/ConCHa/blob/main/LICENSE) file for details.
 
 
 
