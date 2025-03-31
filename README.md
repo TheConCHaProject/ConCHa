@@ -7,7 +7,7 @@ The full documentation can be found here: [ConCHA documentation](https://) - Com
 
 ## What you can find
 
-* [___MatchA___](./ConCha/MatchA/) – the _Matching Abundances_ Python package to reconstruct the mass assembly histories of halos (refer to [Rodriguez-Puebla et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250313348R/abstract));
+* [___MatchA___](./ConCHa/MatchA/) – the _Matching Abundances_ Python package to reconstruct the mass assembly histories of halos (refer to [Rodriguez-Puebla et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv250313348R/abstract));
 - Further more... __COMING SOON__!
 
 ## Developers
