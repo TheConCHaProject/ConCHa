@@ -9,3 +9,6 @@ The full documentation can be found here: ConCHA documentation
 
 ### License
 The ConCHa Project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
+### Logo
+The logo of "The ConCHa Project" was obtained by post-processing an image previously generated with DALL·E 3.
