@@ -11,12 +11,12 @@ The full documentation can be found here: [ConCHA documentation](https://) - Com
 - Further more... __COMING SOON__!
 
 ## Developers
-The ConGHa Project has been designed by ___Dr. Aldo Rodriguez-Puebla___ (_creator_ - Instituto de Astronomía, Universidad Nacional Autónoma de México) & ___Dr. Carlo Cannarozzo___ (_Python developer_ - Center for Astrophysics and Space Science, New York University Abu Dhabi).
+The ConCHa Project has been designed by ___Dr. Aldo Rodriguez-Puebla___ (_creator_ - Instituto de Astronomía, Universidad Nacional Autónoma de México) & ___Dr. Carlo Cannarozzo___ (_Python developer_ - Center for Astrophysics and Space Science, New York University Abu Dhabi).
 
 
 ## Help Us Improve!
 
-If you run into any bugs or have suggestions for improvements, feel free to [Issues](https://github.com/TheConGHaProject/ConCha/issues). We welcome feedback and contributions from the community!
+If you run into any bugs or have suggestions for improvements, feel free to [Issues](https://github.com/TheConCHaProject/ConCha/issues). We welcome feedback and contributions from the community!
 
 
 ### License
