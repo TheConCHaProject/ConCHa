@@ -20,7 +20,7 @@ If you run into any bugs or have suggestions for improvements, feel free to post
 
 
 ## Contacts
-If you have any questions, doubts, curiosity, or something else, send an email [✉️ galhalo_conn@astro.unam.mx](galhalo_conn@astro.unam.mx)
+If you have any questions, doubts, curiosity, or something else, send an email ✉️ [galhalo_conn@astro.unam.mx](mailto:galhalo_conn@astro.unam.mx)
 
 
 ### License
