@@ -16,7 +16,11 @@ The ConCHa Project has been designed by ___Dr. Aldo Rodriguez-Puebla___ (_Creato
 
 ## Help Us Improve!
 
-If you run into any bugs or have suggestions for improvements, feel free to [Issues](https://github.com/TheConCHaProject/ConCha/issues). We welcome feedback and contributions from the community!
+If you run into any bugs or have suggestions for improvements, feel free to post them [here](https://github.com/TheConCHaProject/ConCha/issues). We welcome feedback and contributions from the community!
+
+
+## Contacts
+If you have any questions, doubts, curiosity, or something else, send an email [✉️ galhalo_conn@astro.unam.mx](galhalo_conn@astro.unam.mx)
 
 
 ### License
