@@ -1,6 +1,6 @@
 # The ConCHa Project
 
-<img width="0.7*443" height="0.7*379" alt="concha_logo" src="https://github.com/user-attachments/assets/33a4e12a-3acd-402f-8fb9-7c3960d72ae3" />
+<img width="0.3*443" height="0.3*379" alt="concha_logo" src="https://github.com/user-attachments/assets/33a4e12a-3acd-402f-8fb9-7c3960d72ae3" />
 
 The ConCHa Project is a collection of Python packages focused on the Galaxy–Halo Connection. Its acronym stands for _Connecting Cosmological Halos and galaxies_, and it owes its name to the _tradicional pan dulce Mexicano_ (traditional Mexican sweet bread), which in turn is named after a seashell due to its shape. For more information about this typical _pan dulce_, visit the [Wikipedia website](https://en.wikipedia.org/wiki/Concha).
 
